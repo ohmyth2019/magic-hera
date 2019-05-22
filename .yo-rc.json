@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.magic.hera",
+      "nativeLanguage": "zh-cn"
+    },
+    "jhipsterVersion": "6.0.1",
+    "applicationType": "uaa",
+    "baseName": "hera",
+    "packageName": "com.magic.hera",
+    "packageFolder": "com/magic/hera",
+    "serverPort": "9999",
+    "authenticationType": "uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NmE5NzRjZDAyNmEyZDc2MzQ0Nzc5NDkyMWQ0YjA2M2QzNDU0YzlmYzhkZmQ1Mzc5NTM4MTVlYzY1NGQwMTRjYTYxODE2ZDZmMjg5YWM0MGIzMWYyZjZmNzZlNDU3NmQ1YTJmODdkZTA3MTY1Y2I4OTZjM2Y1NzUwYThmNDY0MGE=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "zh-cn",
+    "languages": [
+      "zh-cn",
+      "zh-tw",
+      "en"
+    ],
+    "skipClient": true
+  }
+}
